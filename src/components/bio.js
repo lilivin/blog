@@ -19,7 +19,8 @@ const Bio = () => {
             summary
           }
           social {
-            twitter
+            instagram
+            tiktok
           }
         }
       }
