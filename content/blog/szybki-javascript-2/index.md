@@ -1,13 +1,14 @@
 ---
-title: Szybki CSS cz.1
-date: "2021-12-04T17:00:00.121Z"
+title: Szybki Javascript cz.2
+date: "2021-12-10T17:00:00.121Z"
 ---
 
-Pierwszy Reels odnośnie CSS'a!
+Drugi Reels odnośnie Javascriptu!
 
-Pierwszy film wprowadzający do technologii CSS. Dla zainteresowanych jak zawsze pozostawiam poniżej linki do artykułów, żeby zgłębić dalej temat. Zwróćcie uwagę jeszcze przy okazji tego tematu na budowę HTML oraz dodawanie klasy do naszego elementu.
+W pierwszym reelsie rozmawialiśmy o deklarowaniu zmiennych w Javascripcie. Mam nadzieje, że zostało wam coś w głowach, bo dzisiaj zostajemy w temacie zmiennych, a dokładnie powiemy o ich typach. Poniżej jak zawsze zostawiam linki do przydatnych artykułów i życzę miłej nauki!
 
 Linki:
-([Kurs HTML&CSS](http://www.kurshtmlcss.pl/kurs-css/lekcja1-budowa-stylu-selektor-cecha-wartosc.php))
+([MDN Web Docs](https://developer.mozilla.org/pl/docs/Web/JavaScript/Guide/Grammar_and_types))
+([Helion](https://helion.pl/pobierz-fragment/tjtypy/pdf))
 
 Miłego dzionka ;)
