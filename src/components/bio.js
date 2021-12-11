@@ -47,11 +47,11 @@ const Bio = () => {
           Pisane przez <strong>{author.name}.</strong> {author?.summary || null}
           {` `}
           <br/>
-          <a href={`https://twitter.com/${social?.instagram || ``}`}>
+          <a href={`https://www.instagram.com/${social?.instagram || ``}`}>
             Kliknij i zaobseruj mnie na Instagramie!
           </a>
           <br/>
-          <a href={`https://twitter.com/${social?.tiktok || ``}`}>
+          <a href={`https://www.tiktok.com/@${social?.tiktok || ``}`}>
             Kliknij i zobacz moje filmy na Tiktoku!
           </a>
         </p>
