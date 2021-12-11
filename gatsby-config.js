@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Karol Liwiński Blog`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Karol Liwiński`,
+      summary: `Frontend Developer i pasjonat programowania. Zapraszam na mojego instagrama i Tiktoka gdzie umieszczam filmy związane z programowanie i światem IT.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
